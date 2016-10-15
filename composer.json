@@ -20,7 +20,7 @@
     "php": ">=5.5",
     "zordius/lightncandy": "0.95",
     "nategood/commando": "0.2.8",
-    "1happyplace/clio": "0.5.2-beta",
+    "1happyplace/clio": "v0.5.2-beta",
     "perchten/rmrdir": "1.*"
   },
   "bin": [
